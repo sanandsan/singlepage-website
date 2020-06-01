@@ -1,0 +1,56 @@
+
+body{
+    background-color:#1c87c9
+/* background-image:url('./../bg-img1.jpeg'); */
+display: inline;
+}
+nav{    
+display:flex ;
+
+justify-content: space-evenly;
+}
+
+
+
+.navButton{
+    height: 30px;
+    width: 130px;
+    border-radius: 3%;
+    padding-top: 8px;
+    margin:7px;
+    text-align: center;
+    background-color:transparent;
+}
+
+
+.navButton:hover{
+    background-color:grey; 
+    opacity: 70%;
+}
+
+.changing{
+display: relative;
+align-content: center;
+align-items: center;
+text-align: center;
+padding: 50px;
+}
+
+
+.signup{
+    display: none;
+}
+.signup > text{
+outline: thick,cyan;
+outline-offset: 2rem;
+}
+.achievements{
+display: none;
+
+}
+
+
+.signup > button{
+    color: cyan;
+
+    }
