@@ -44,10 +44,11 @@ padding: 50px;
 outline: thick,cyan;
 outline-offset: 2rem;
 }
-.achievements{
+.achievements,.experience{
 display: none;
-
 }
+
+
 
 
 .signup > button{

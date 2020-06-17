@@ -14,3 +14,14 @@ function signup(){
     const changableData= document.getElementById("signup").innerHTML;
     document.getElementById("changing").innerHTML=changableData
 }
+
+
+function experience(){
+    const changableData= document.getElementById("experience").innerHTML;
+    document.getElementById("changing").innerHTML=changableData
+}
+
+
+function changeContentOf(){
+    
+}
